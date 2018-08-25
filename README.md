@@ -1,25 +1,10 @@
-# ReduxSimpleStarter
+### React with Redux Course with Stephen Grider on Udemy
 
-Interested in learning [Redux](https://www.udemy.com/react-redux/)?
+* August 24: Lecture 1-10
+	* Intro to React, JSX, and ES6
+* August 25: Lecture 11-33
+	* finished the Youtube Search App project.
+	* functionality
+		* type in the search bar and the website will dynamically load top 5 videos.
+		* click on videos to switch and play
 
-### Getting Started
-
-There are two methods for getting started with this repo.
-
-#### Familiar with Git?
-Checkout this repo, install dependencies, then start the gulp process with the following:
-
-```
-> git clone https://github.com/StephenGrider/ReduxSimpleStarter.git
-> cd ReduxSimpleStarter
-> npm install
-> npm start
-```
-
-#### Not Familiar with Git?
-Click [here](https://github.com/StephenGrider/ReactStarter/releases) then download the .zip file.  Extract the contents of the zip file, then open your terminal, change to the project directory, and:
-
-```
-> npm install
-> npm start
-```
